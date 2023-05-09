@@ -10,11 +10,11 @@ require (
 	github.com/tilinna/clock v1.1.0
 	go.opentelemetry.io/collector v0.76.2-0.20230508160606-833cbdaf75cc
 	go.opentelemetry.io/collector/component v0.76.2-0.20230508160606-833cbdaf75cc
-	go.opentelemetry.io/collector/confmap v0.76.2-0.20230508160606-833cbdaf75cc
+	go.opentelemetry.io/collector/confmap v0.77.0
 	go.opentelemetry.io/collector/consumer v0.76.2-0.20230508160606-833cbdaf75cc
 	go.opentelemetry.io/collector/exporter v0.76.2-0.20230508160606-833cbdaf75cc
 	go.opentelemetry.io/collector/exporter/otlpexporter v0.76.2-0.20230508160606-833cbdaf75cc
-	go.opentelemetry.io/collector/featuregate v0.76.2-0.20230508160606-833cbdaf75cc
+	go.opentelemetry.io/collector/featuregate v0.77.0
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0011.0.20230508160606-833cbdaf75cc
 	go.opentelemetry.io/collector/semconv v0.76.2-0.20230508160606-833cbdaf75cc
 	go.uber.org/zap v1.24.0
