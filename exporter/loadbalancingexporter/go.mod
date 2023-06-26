@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/batchpersignal v0.78.0
-	github.com/stretchr/testify v1.8.3
+	github.com/stretchr/testify v1.8.4
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/collector v0.78.3-0.20230525165144-87dd85a6c034
 	go.opentelemetry.io/collector/component v0.78.3-0.20230525165144-87dd85a6c034
@@ -13,7 +13,7 @@ require (
 	go.opentelemetry.io/collector/exporter v0.78.3-0.20230525165144-87dd85a6c034
 	go.opentelemetry.io/collector/exporter/otlpexporter v0.78.3-0.20230525165144-87dd85a6c034
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0012.0.20230525165144-87dd85a6c034
-	go.opentelemetry.io/collector/semconv v0.78.3-0.20230525165144-87dd85a6c034
+	go.opentelemetry.io/collector/semconv v0.80.0
 	go.uber.org/multierr v1.11.0
 	go.uber.org/zap v1.24.0
 )
