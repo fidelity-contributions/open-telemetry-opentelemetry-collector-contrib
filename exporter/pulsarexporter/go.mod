@@ -6,7 +6,7 @@ require (
 	github.com/apache/pulsar-client-go v0.8.1
 	github.com/cenkalti/backoff/v4 v4.2.1
 	github.com/gogo/protobuf v1.3.2
-	github.com/jaegertracing/jaeger v1.41.0
+	github.com/jaegertracing/jaeger v1.50.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal v0.87.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/jaeger v0.87.0
 	github.com/stretchr/testify v1.8.4
@@ -55,7 +55,6 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/mtibben/percent v0.2.1 // indirect
 	github.com/nxadm/tail v1.4.8 // indirect
-	github.com/opentracing/opentracing-go v1.2.0 // indirect
 	github.com/pierrec/lz4 v2.6.1+incompatible // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
@@ -65,8 +64,6 @@ require (
 	github.com/prometheus/procfs v0.11.1 // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
-	github.com/uber/jaeger-client-go v2.30.0+incompatible // indirect
-	github.com/uber/jaeger-lib v2.4.1+incompatible // indirect
 	go.opencensus.io v0.24.0 // indirect
 	go.opentelemetry.io/collector v0.87.1-0.20231017160804-ec0725874313 // indirect
 	go.opentelemetry.io/collector/config/configtelemetry v0.87.1-0.20231017160804-ec0725874313 // indirect
@@ -75,7 +72,7 @@ require (
 	go.opentelemetry.io/otel v1.19.0 // indirect
 	go.opentelemetry.io/otel/metric v1.19.0 // indirect
 	go.opentelemetry.io/otel/trace v1.19.0 // indirect
-	go.uber.org/atomic v1.10.0 // indirect
+	go.uber.org/atomic v1.11.0 // indirect
 	golang.org/x/crypto v0.14.0 // indirect
 	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/oauth2 v0.13.0 // indirect
