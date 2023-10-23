@@ -10,7 +10,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/prometheusremotewriteexporter v0.87.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.87.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/prometheus v0.87.0
-	github.com/prometheus/common v0.44.0
+	github.com/prometheus/common v0.45.0
 	github.com/prometheus/prometheus v0.47.2
 	github.com/stretchr/testify v1.8.4
 	go.opentelemetry.io/collector/component v0.87.1-0.20231017160804-ec0725874313
@@ -123,7 +123,7 @@ require (
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.19 // indirect
-	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
+	github.com/matttproud/golang_protobuf_extensions/v2 v2.0.0 // indirect
 	github.com/miekg/dns v1.1.55 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
