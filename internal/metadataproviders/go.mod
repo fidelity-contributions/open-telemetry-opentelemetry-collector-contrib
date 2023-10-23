@@ -12,8 +12,8 @@ require (
 	go.opentelemetry.io/collector/semconv v0.87.1-0.20231017160804-ec0725874313
 	go.opentelemetry.io/otel v1.19.0
 	go.opentelemetry.io/otel/sdk v1.19.0
-	k8s.io/api v0.28.2
-	k8s.io/apimachinery v0.28.2
+	k8s.io/api v0.28.3
+	k8s.io/apimachinery v0.28.3
 	k8s.io/client-go v0.28.2
 )
 
