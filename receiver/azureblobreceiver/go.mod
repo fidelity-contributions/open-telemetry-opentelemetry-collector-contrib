@@ -10,7 +10,7 @@ require (
 	go.opentelemetry.io/collector/component v0.87.1-0.20231017160804-ec0725874313
 	go.opentelemetry.io/collector/consumer v0.87.1-0.20231017160804-ec0725874313
 	go.opentelemetry.io/collector/otelcol v0.87.1-0.20231017160804-ec0725874313
-	go.opentelemetry.io/collector/pdata v1.0.0-rcv0016.0.20231017160804-ec0725874313
+	go.opentelemetry.io/collector/pdata v1.0.0-rcv0017
 	go.opentelemetry.io/collector/receiver v0.87.1-0.20231017160804-ec0725874313
 	go.uber.org/zap v1.26.0
 )
@@ -110,7 +110,7 @@ require (
 	gonum.org/v1/gonum v0.14.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20230822172742-b8732ec3820d // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230822172742-b8732ec3820d // indirect
-	google.golang.org/grpc v1.58.3 // indirect
+	google.golang.org/grpc v1.59.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
