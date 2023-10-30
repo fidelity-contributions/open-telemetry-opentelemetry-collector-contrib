@@ -15,7 +15,7 @@ require (
 	go.opentelemetry.io/collector/consumer v0.87.1-0.20231017160804-ec0725874313
 	go.opentelemetry.io/collector/exporter v0.87.1-0.20231017160804-ec0725874313
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0016.0.20231017160804-ec0725874313
-	go.opentelemetry.io/collector/semconv v0.87.1-0.20231017160804-ec0725874313
+	go.opentelemetry.io/collector/semconv v0.88.0
 	google.golang.org/grpc v1.58.3
 	skywalking.apache.org/repo/goapi v0.0.0-20211122071111-ffc517fbfe21
 )
