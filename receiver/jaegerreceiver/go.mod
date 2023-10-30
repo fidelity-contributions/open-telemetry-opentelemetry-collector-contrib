@@ -13,7 +13,7 @@ require (
 	go.opentelemetry.io/collector/config/configgrpc v0.87.1-0.20231017160804-ec0725874313
 	go.opentelemetry.io/collector/config/confighttp v0.87.1-0.20231017160804-ec0725874313
 	go.opentelemetry.io/collector/config/confignet v0.87.1-0.20231017160804-ec0725874313
-	go.opentelemetry.io/collector/config/configtls v0.87.1-0.20231017160804-ec0725874313
+	go.opentelemetry.io/collector/config/configtls v0.88.0
 	go.opentelemetry.io/collector/confmap v0.87.1-0.20231017160804-ec0725874313
 	go.opentelemetry.io/collector/consumer v0.87.1-0.20231017160804-ec0725874313
 	go.opentelemetry.io/collector/featuregate v1.0.0-rcv0016.0.20231017160804-ec0725874313
@@ -57,7 +57,7 @@ require (
 	go.opentelemetry.io/collector v0.87.1-0.20231017160804-ec0725874313 // indirect
 	go.opentelemetry.io/collector/config/configauth v0.87.1-0.20231017160804-ec0725874313 // indirect
 	go.opentelemetry.io/collector/config/configcompression v0.87.1-0.20231017160804-ec0725874313 // indirect
-	go.opentelemetry.io/collector/config/configopaque v0.87.1-0.20231017160804-ec0725874313 // indirect
+	go.opentelemetry.io/collector/config/configopaque v0.88.0 // indirect
 	go.opentelemetry.io/collector/config/configtelemetry v0.87.1-0.20231017160804-ec0725874313 // indirect
 	go.opentelemetry.io/collector/config/internal v0.87.1-0.20231017160804-ec0725874313 // indirect
 	go.opentelemetry.io/collector/extension v0.87.1-0.20231017160804-ec0725874313 // indirect
