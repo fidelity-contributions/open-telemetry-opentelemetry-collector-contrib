@@ -9,7 +9,7 @@ require (
 	go.opentelemetry.io/collector/component v0.87.1-0.20231017160804-ec0725874313
 	go.opentelemetry.io/collector/config/confighttp v0.87.1-0.20231017160804-ec0725874313
 	go.opentelemetry.io/collector/config/configopaque v0.87.1-0.20231017160804-ec0725874313
-	go.opentelemetry.io/collector/confmap v0.87.1-0.20231017160804-ec0725874313
+	go.opentelemetry.io/collector/confmap v0.88.0
 	go.opentelemetry.io/collector/exporter v0.87.1-0.20231017160804-ec0725874313
 	go.opentelemetry.io/collector/exporter/otlphttpexporter v0.87.1-0.20231017160804-ec0725874313
 	golang.org/x/oauth2 v0.13.0
@@ -52,7 +52,7 @@ require (
 	go.opentelemetry.io/collector/consumer v0.87.1-0.20231017160804-ec0725874313 // indirect
 	go.opentelemetry.io/collector/extension v0.87.1-0.20231017160804-ec0725874313 // indirect
 	go.opentelemetry.io/collector/extension/auth v0.87.1-0.20231017160804-ec0725874313 // indirect
-	go.opentelemetry.io/collector/featuregate v1.0.0-rcv0016.0.20231017160804-ec0725874313 // indirect
+	go.opentelemetry.io/collector/featuregate v1.0.0-rcv0017 // indirect
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0016.0.20231017160804-ec0725874313 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.45.0 // indirect
 	go.opentelemetry.io/otel v1.19.0 // indirect
