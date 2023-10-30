@@ -9,11 +9,11 @@ require (
 	go.opentelemetry.io/collector/confmap v0.87.1-0.20231017160804-ec0725874313
 	go.opentelemetry.io/collector/consumer v0.87.1-0.20231017160804-ec0725874313
 	go.opentelemetry.io/collector/exporter v0.87.1-0.20231017160804-ec0725874313
-	go.opentelemetry.io/collector/pdata v1.0.0-rcv0016.0.20231017160804-ec0725874313
+	go.opentelemetry.io/collector/pdata v1.0.0-rcv0017
 	go.opentelemetry.io/collector/receiver v0.87.1-0.20231017160804-ec0725874313
 	go.uber.org/zap v1.26.0
 	google.golang.org/api v0.147.0
-	google.golang.org/grpc v1.58.3
+	google.golang.org/grpc v1.59.0
 )
 
 require (
