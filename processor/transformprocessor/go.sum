@@ -110,12 +110,12 @@ go.opentelemetry.io/collector/component v0.88.1-0.20231112151805-b570812b1e06 h1
 go.opentelemetry.io/collector/component v0.88.1-0.20231112151805-b570812b1e06/go.mod h1:lLxzUrBDALsu5Q7wLgCbIW/ecwWHaly1TefV5V2ul7E=
 go.opentelemetry.io/collector/config/configtelemetry v0.88.1-0.20231112151805-b570812b1e06 h1:KiH1YDZMnlOKmTRNps5frm5pCUxj/edqlV4Vgn5cIyg=
 go.opentelemetry.io/collector/config/configtelemetry v0.88.1-0.20231112151805-b570812b1e06/go.mod h1:+LAXM5WFMW/UbTlAuSs6L/W72WC+q8TBJt/6z39FPOU=
-go.opentelemetry.io/collector/confmap v0.88.1-0.20231112151805-b570812b1e06 h1:e2yi0l+neYfRQbgP9nidcWXCQJUpvAL4/ujeHPUmL34=
-go.opentelemetry.io/collector/confmap v0.88.1-0.20231112151805-b570812b1e06/go.mod h1:0+216q042fYieVdFxb4VlGwSLpJWKjDPwiL/9M43/x4=
+go.opentelemetry.io/collector/confmap v0.89.0 h1:N5Vg1+FXEFBHHlGIPg4OSlM9uTHjCI7RlWWrKjtOzWQ=
+go.opentelemetry.io/collector/confmap v0.89.0/go.mod h1:D8FMPvuihtVxwXaz/qp5q9X2lq9l97QyjfsdZD1spmc=
 go.opentelemetry.io/collector/consumer v0.88.1-0.20231112151805-b570812b1e06 h1:8YA95ZUk6A1w2e6vkRR+yjr8xUghLVFFb51f6W7LnCQ=
 go.opentelemetry.io/collector/consumer v0.88.1-0.20231112151805-b570812b1e06/go.mod h1:aM7h5bPQsTHO/rjcP0VzxR5iJz3uTzkQ7OYe5aOjClM=
-go.opentelemetry.io/collector/featuregate v1.0.0-rcv0017.0.20231112151805-b570812b1e06 h1:+TYJkgSrAGAXUij6wSh2d3vuitmS9DLCJCej78LjgsI=
-go.opentelemetry.io/collector/featuregate v1.0.0-rcv0017.0.20231112151805-b570812b1e06/go.mod h1:xGbRuw+GbutRtVVSEy3YR2yuOlEyiUMhN2M9DJljgqY=
+go.opentelemetry.io/collector/featuregate v1.0.0-rcv0018 h1:iK4muX3KIMqKk0xwKcRzu4ravgCtUdzsvuxxdz6A27g=
+go.opentelemetry.io/collector/featuregate v1.0.0-rcv0018/go.mod h1:xGbRuw+GbutRtVVSEy3YR2yuOlEyiUMhN2M9DJljgqY=
 go.opentelemetry.io/collector/pdata v1.0.0-rcv0017.0.20231112151805-b570812b1e06 h1:/P0V4ef6OF6jZU+BRUE59akrVhReQoQCN7SPsPE/Mq4=
 go.opentelemetry.io/collector/pdata v1.0.0-rcv0017.0.20231112151805-b570812b1e06/go.mod h1:oNIcTRyEJYIfMcRYyyh5lquDU0Vl+ktTL6ka+p+dYvg=
 go.opentelemetry.io/collector/processor v0.88.1-0.20231112151805-b570812b1e06 h1:s9pUShUDet9KiLIWNsRcwcEXma3Ia2OmfFxHFo41IMM=
