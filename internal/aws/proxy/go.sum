@@ -19,8 +19,8 @@ github.com/rogpeppe/go-internal v1.10.0 h1:TMyTOH3F/DB16zRVcYyreMH6GnZZrwQVAoYjR
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
 github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
-go.opentelemetry.io/collector/config/confignet v0.88.1-0.20231112151805-b570812b1e06 h1:zzD6ekgqAqnVjR0MmqLwwGTImcxUsjHq9jGJA1FGmaQ=
-go.opentelemetry.io/collector/config/confignet v0.88.1-0.20231112151805-b570812b1e06/go.mod h1:cpO8JYWGONaViOygKVw+Hd2UoBcn2cUiyi0WWeFTwJY=
+go.opentelemetry.io/collector/config/confignet v0.89.0 h1:Ekh+XhXelnnJ9as8IWhdUOfjnDPhz12XMJQ8sWNAbGw=
+go.opentelemetry.io/collector/config/confignet v0.89.0/go.mod h1:cpO8JYWGONaViOygKVw+Hd2UoBcn2cUiyi0WWeFTwJY=
 go.opentelemetry.io/collector/config/configopaque v0.88.1-0.20231112151805-b570812b1e06 h1:pO/iONn21eZVkcasVDigaDnhloXlzyv4GexmJiK+Ghk=
 go.opentelemetry.io/collector/config/configopaque v0.88.1-0.20231112151805-b570812b1e06/go.mod h1:TPCHaU+QXiEV+JXbgyr6mSErTI9chwQyasDVMdJr3eY=
 go.opentelemetry.io/collector/config/configtls v0.88.1-0.20231112151805-b570812b1e06 h1:bl2V+9C17X9qMBYp+EdL6CkAMP2GiV7cBl78TTsQOUQ=
