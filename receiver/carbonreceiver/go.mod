@@ -8,7 +8,7 @@ require (
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/collector v0.88.1-0.20231112151805-b570812b1e06
 	go.opentelemetry.io/collector/component v0.88.1-0.20231112151805-b570812b1e06
-	go.opentelemetry.io/collector/config/confignet v0.88.1-0.20231112151805-b570812b1e06
+	go.opentelemetry.io/collector/config/confignet v0.89.0
 	go.opentelemetry.io/collector/confmap v0.88.1-0.20231112151805-b570812b1e06
 	go.opentelemetry.io/collector/consumer v0.88.1-0.20231112151805-b570812b1e06
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0017.0.20231112151805-b570812b1e06
