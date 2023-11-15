@@ -577,8 +577,8 @@ go.opentelemetry.io/collector/processor v0.88.1-0.20231112151805-b570812b1e06 h1
 go.opentelemetry.io/collector/processor/batchprocessor v0.88.1-0.20231112151805-b570812b1e06 h1:aABxP3DaSO+lprTJal/bG7SdlAxVio6UmTFdhTA6NzY=
 go.opentelemetry.io/collector/receiver v0.88.1-0.20231112151805-b570812b1e06 h1:zWzHrakyDNkpuWQIIW0Ogcl7prPUseC88xXKxnjRZSs=
 go.opentelemetry.io/collector/receiver v0.88.1-0.20231112151805-b570812b1e06/go.mod h1:CtxCEJ56je3aUCr+FleOzxu6G507tp6pFhJxVtteuIs=
-go.opentelemetry.io/collector/semconv v0.88.1-0.20231112151805-b570812b1e06 h1:0WAUFf9e/j1LKoiWZ3LEHfsvWmBvZ+JCFEsGuGOCaZo=
-go.opentelemetry.io/collector/semconv v0.88.1-0.20231112151805-b570812b1e06/go.mod h1:j/8THcqVxFna1FpvA2zYIsUperEtOaRaqoLYIN4doWw=
+go.opentelemetry.io/collector/semconv v0.89.0 h1:Sw+MiI3/oiYIY+ebkanZsOaBxXMx3sqnH1/6NaD4rLQ=
+go.opentelemetry.io/collector/semconv v0.89.0/go.mod h1:j/8THcqVxFna1FpvA2zYIsUperEtOaRaqoLYIN4doWw=
 go.opentelemetry.io/collector/service v0.88.1-0.20231112151805-b570812b1e06 h1:xuYOYD9ECtDvr4Mnk9mn7X6SS33ghLpL4HYKOpdBIyo=
 go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.46.0 h1:1eHu3/pUSWaOgltNK3WJFaywKsTIr/PwvHyDmi0lQA0=
 go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.46.0/go.mod h1:HyABWq60Uy1kjJSa2BVOxUVao8Cdick5AWSKPutqy6U=
