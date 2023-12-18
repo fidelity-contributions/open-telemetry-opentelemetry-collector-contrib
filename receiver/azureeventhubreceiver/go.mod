@@ -106,10 +106,10 @@ require (
 	go.opentelemetry.io/otel/trace v1.20.0 // indirect
 	go.opentelemetry.io/proto/otlp v1.0.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/crypto v0.15.0 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/exp v0.0.0-20230713183714-613f0c0eb8a1 // indirect
 	golang.org/x/net v0.18.0 // indirect
-	golang.org/x/sys v0.14.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	gonum.org/v1/gonum v0.14.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20231106174013-bbf56f31fb17 // indirect
